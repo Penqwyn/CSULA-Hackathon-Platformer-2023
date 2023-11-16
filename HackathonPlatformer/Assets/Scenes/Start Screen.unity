@@ -918,8 +918,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0.0000047684, y: -54}
-  m_SizeDelta: {x: 872.2046, y: 73.6512}
+  m_AnchoredPosition: {x: 0, y: -57.374}
+  m_SizeDelta: {x: 340.3069, y: 73.6512}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1357866511
 MonoBehaviour:
@@ -954,7 +954,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Virtual Dude's Fruity Journey
+  m_Text: High Stakes
 --- !u!222 &1357866512
 CanvasRenderer:
   m_ObjectHideFlags: 0
